@@ -122,13 +122,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://localhost:8081/repository/mavenreleasejan2020/</url>
+<url>http://localhost:8081/repository/maven-deploy-release-2020/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://localhost:8081/repository/mavensnapshotjan2020/</url>
+<url>http://localhost:8081/repository/maven-deploy-SNAPSHOT-2020/</url>
 </snapshotRepository>
  
 </distributionManagement>
