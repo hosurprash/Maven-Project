@@ -128,7 +128,7 @@
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://localhost:8081/repository/Maven_pipeline_Release_Jan_2020/</url>
+<url>http://localhost:8081/repository/Maven_pipeline_Snapshot_Jan_2020/</url>
 </snapshotRepository>
  
 </distributionManagement>
